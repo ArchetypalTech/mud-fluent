@@ -28,6 +28,8 @@ With this standard data model, MUD can provide all network code to synchronize c
 
 MUD is MIT-licensed, open source and free to use.
 
+**This is fork that amends some of the build tooling to play nice with the Fluent Blended Ecosystem.**
+
 ## Features
 
 ![MUD features](./docs/public/features.png)
