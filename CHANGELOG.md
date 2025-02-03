@@ -1,5 +1,11 @@
 # Change Log
 
+## fluent-fork
+
+Adds extra flags to PostDeploy step. (--legacy, --skip-simulation) as these don't play well with Fluents rWASM nodes.
+
+It should be noted that Fluent uses a hardhat deployment and MUD uses an anvil/foundry deployment. It is far simpler to just use MUD's build tools than re-write for Fluent Blended
+
 ## 2.0.0-next.14
 
 ### Minor Changes
